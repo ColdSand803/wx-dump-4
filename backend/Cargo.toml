@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["baiyajin"]
 description = "WeChat dump backend service with Rust"
 license = "MIT"
+default-run = "wx-dump-4-backend"
 
 [dependencies]
 # Web框架
